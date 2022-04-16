@@ -1,6 +1,6 @@
 {
   "name": "discord-colors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a css and json file with all of discord's colors",
   "main": "colors.css",
   "scripts": {
